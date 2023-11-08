@@ -1,4 +1,4 @@
-# communicationAssignmnet
+# Communication Systems Assignmnet
 
 ## Group Members:
 1) P V Damodaram - 12141200
