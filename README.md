@@ -23,4 +23,7 @@ The code used is uploaded in the main folder.
 The results and working of the setup is captured in videos.
 The link for the videos:
 1) Online simulator - https://drive.google.com/file/d/1P3Fy0CXc42hfHDdCQaEOYcxmmSc95Vx5/view?usp=drivesdk
-2) Offline experiment - https://drive.google.com/file/d/1P39Q5svHfI8V_8jASjIa2PavtRZHwKgR/view?usp=drivesdk
+2) Offline experiment - i) The output measure d using oscilloscope - https://drive.google.com/file/d/1P39Q5svHfI8V_8jASjIa2PavtRZHwKgR/view?usp=drivesdk
+ii) The output measured using the serial plotter in the receivers ardriuno (in this bits rate was very high in sampling so the graph is moving fast in serial plotter, thats why we used external oscilloscope to perceive the result) - https://drive.google.com/file/d/1P4Rr9Gu7hVj4sLEHClPsmVffY8UCHm4S/view?usp=drivesdk
+
+
